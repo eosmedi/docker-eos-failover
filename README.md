@@ -1,4 +1,7 @@
 # docker-eos-failover
+
+Data directory struct
+
 ```shell
 
  ls  /home/ubuntu/data-dir2
