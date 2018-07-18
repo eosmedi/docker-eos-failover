@@ -6,7 +6,7 @@ backup data-dir daily
 
 check node status, use backup data-dir auto recovery from a ungracefuly shutdown status
 
-Data directory struct
+## Data directory struct
 
 ```shell
  ls  /home/ubuntu/data-dir
