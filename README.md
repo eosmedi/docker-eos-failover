@@ -13,3 +13,12 @@ check node status, use backup data-dir auto recovery from a ungracefuly shutdown
 blocks  config.ini  contracts  genesis.json  state
 ```
 
+## Config
+
+edit config.js
+
+## RUN
+```shell
+npm install
+node failover.js
+```
